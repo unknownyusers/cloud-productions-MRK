@@ -1,0 +1,6 @@
+{
+  "name": "ContentForge",
+  "description": "Personal Creative Production Engine - Local-First Content Creation & Brand System",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
